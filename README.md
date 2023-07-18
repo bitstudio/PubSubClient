@@ -1,3 +1,5 @@
+Reference for later: https://github.com/Imroy/pubsubclient
+
 # Arduino Client for MQTT
 
 This library provides a client for doing simple publish/subscribe messaging with
